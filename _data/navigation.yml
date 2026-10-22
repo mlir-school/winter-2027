@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Program"
+    url: /program/
+  - title: "Logistics"
+    url: /logistics/
+  - title: "Organization"
+    url: /organization/
+  - title: "Series"
+    url: /past_editions/

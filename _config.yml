@@ -1,0 +1,12 @@
+title: ACM Europe School on MLIR 2026
+
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+atom_feed:
+  hide: true
+include:
+  - files/
+  # Jekyll filters nested entries by basename; include the notebook bundles
+  # regardless of their containing `assets/` directory.
+  - "_*.js"
