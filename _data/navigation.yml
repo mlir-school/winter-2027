@@ -1,11 +1,24 @@
 main:
   - title: "Home"
     url: /
+  - title: "Topics"
+    url: /expert-topics/
+  - title: "Venue"
+    url: /venue/
   - title: "Program"
     url: /program/
-  - title: "Logistics"
-    url: /logistics/
+  - title: "Registration"
+    url: /registration/
+  - title: "Teachers"
+    url: /teachers/
   - title: "Organization"
     url: /organization/
   - title: "Series"
     url: /past_editions/
+    children:
+      - title: "2026 A Coruña Summer School"
+        url: https://mlir-school.github.io/summer-2026/
+      - title: "2025 Cambridge Summer (Un)School"
+        url: https://mlir-school.github.io/summer-2025/
+      - title: "2025 Paris Winter School"
+        url: https://sites.google.com/view/mlirwinterschoolparis2025/home

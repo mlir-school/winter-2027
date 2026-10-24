@@ -1,41 +1,35 @@
 ---
 layout: splash
-title: "ACM Europe School on MLIR 2026"
-excerpt: "10 - 14 August 2026, A Coruña, Spain"
+title: "European Winter School on MLIR 2027"
+excerpt: "4 – 8 January 2027, Chamonix, France"
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /images/Coruna_Coast_header.webp
+  overlay_image: /images/chamonix_header.webp
 feature_row_overview:
-  - image_path: /images/hotel.jpg
-    alt: "Hotel Faranda Rías Altas"
-    title: "Hotel Faranda Rías Altas"
-    excerpt: "Stay by the sea at Hotel Faranda Rías Altas, situated on the Santa Cristina beachfront, just minutes from A Coruña’s vibrant center. With sweeping views over the Ria, quiet coastal paths, and modern facilities for both rest and work, it offers an inspiring setting to **focus, learn, and connect**, immersed in Galicia’s Atlantic charm."
-  - image_path:
-    alt: ""
-    title: ""
-    excerpt: ""
+  - image_path: /images/chamonix_bigsky.jpg
+    alt: "Hotel Big Sky, Chamonix"
+    title: "Big Sky, Chamonix"
+    excerpt: "The school takes place at **[Big Sky](https://www.bigsky-hotel.com/en)** in Chamonix-Mont-Blanc. Full-board lodging and working rooms are on site, with Mont Blanc as a backdrop — a compact setting designed for **focused talks, informal coding sessions, and community building**."
+  - image_path: /images/school1b.png
+    alt: "Expert talk"
+    title: "Topic deep-dives"
+    excerpt: "An **expert-oriented** week in the spirit of the Cambridge (Un)School: short talks followed by extended discussion. Topic days cover **HPC**, **backends**, **front-ends**, and **formal methods & IR**, each led by an animator who invites speakers and contributors."
   - image_path: /images/school2b.png
-    alt: "Hands-on Courses"
-    title: "Hands-on Courses"
-    excerpt: "Start your journey with MLIR by diving into its core concepts and infrastructure. Our course will guide you through the fundamentals of SSA, operator lowering, and dialect definition. By the end, these essential building blocks will no longer be mysteries. Instead, you will **design MLIR compilers with confidence**."
+    alt: "Hands-on coding"
+    title: "Hands-on with authors"
+    excerpt: "Go beyond slides: **work side by side with dialect authors** and practitioners. The focus is to **appropriate existing dialects** through guided coding, clinics, and informal working groups — learn by building with the people who ship the IR."
 ---
 
-
-**Note:** Applications are closed. Classes will be streamed online through Microsoft Teams. See [Program](/program) for details.
+**Note:** Draft website — dates and venue are set; programme and registration details are being finalized.
 {: .notice--info}
 
-MLIR is reshaping the future of compiler technology. In only a few years, it has grown into a foundational framework powering AI, EDA, HPC, quantum computing, and cutting‑edge cryptographic toolchains. Its rapidly expanding multi‑domain ecosystem offers unique opportunities for learning, collaboration, and innovation. The ACM Europe School on MLIR 2026 is designed especially for beginners, offering a welcoming environment where students, early‑career researchers, and newcomers can take their first steps into MLIR, while still providing space for experts to meet, exchange ideas, and shape the future of the ecosystem together.
+MLIR continues to reshape compiler technology across AI, EDA, HPC, quantum computing, and beyond. After beginner-oriented editions (Paris, A Coruña) and an expert-oriented (Un)School in Cambridge, the **European Winter School on MLIR 2027** returns to a small, intensive format in the Alps.
 
-Set on the seafront of Santa Cristina beach, in Perillo (A Coruña), the school combines hands‑on foundational courses with informal discussions, collaborative exercises, and community‑building activities in an inspiring seaside setting. Throughout the week, participants will learn the fundamentals of MLIR, explore practical applications across domains, and connect with developers and researchers from around the world. And if weather allows, we will also take the opportunity to observe the solar eclipse on August 12, making this edition not only technically enriching, but memorable on a personal level as well.
+From **Monday 4 January (noon)** to **Friday 8 January (before noon)**, participants stay and work together at [Big Sky](https://www.bigsky-hotel.com/en) in Chamonix. The week mixes **topic deep-dives** with **hands-on time alongside experts**. One half-day is reserved for an optional social outing on **Wednesday morning** (Aiguille du Midi, weather permitting).
 
-**Note:** 
-This summer school is designed for beginners and everyone interested in MLIR and its foundations. Taking into account feedback
-from earlier editions, we will provide significant more space for people who are relatively new to MLIR.
-We keep meeting rooms available for self-organized parallel discussions on focus
-topics. While we experimented with an expert-focused MLIR (Un)School in Summer
-2025 in Cambridge, this iteration of the MLIR school follows again its roots
-and will be in the beginner-focused spirit of the first MLIR (winter) school in Paris. 
+**Note:**
+This edition is **expert-oriented**. It is a good fit if you already work with MLIR (or a closely related IR stack) and want deep technical exchange rather than an introductory curriculum. Beginners looking for a first course may prefer materials from earlier editions (see [Series](/past_editions/)).
 {: .notice--info}
 {% include feature_row id="feature_row_overview" %}
 
@@ -47,8 +41,8 @@ and will be in the beginner-focused spirit of the first MLIR (winter) school in 
     align-items: center;
     gap: 2rem;
   ">
-    <img src="{{ '/images/inria_logo.png' | relative_url }}" style="height: 80px;">
-    <img src="{{ '/images/deepgreen_logo.png' | relative_url }}" style="height: 80px;">
-    <img src="{{ '/images/acm_europe_council.png' | relative_url }}" style="height: 80px;">
+    <img src="{{ '/images/inria_logo.png' | relative_url }}" alt="Inria" style="height: 80px;">
+    <img src="{{ '/images/deepgreen_logo.png' | relative_url }}" alt="DeepGreen" style="height: 80px;">
+    <img src="{{ '/images/google_logo.png' | relative_url }}" alt="Google" style="height: 50px;">
   </div>
 </div>

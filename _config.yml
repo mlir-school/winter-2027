@@ -1,4 +1,12 @@
-title: ACM Europe School on MLIR 2026
+title: European Winter School on MLIR 2027
+name: European Winter School on MLIR 2027
+masthead_title: European Winter School on MLIR 2027
+tagline: 4 – 8 January 2027, Chamonix, France
+description: European Winter School on MLIR 2027 — 4–8 January 2027, Chamonix, France
+
+
+# Avoid GitHub Metadata overriding local titles while the remote repo is empty / private
+repository: mlir-school/winter-2027
 
 remote_theme: mmistakes/minimal-mistakes
 plugins:
