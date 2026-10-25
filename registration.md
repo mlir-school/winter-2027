@@ -23,14 +23,15 @@ Because capacity is limited, applying early is recommended once the form opens.
 
 Fees below are **indicative** and may still change slightly (e.g. service fees). They cover lodging and catering for the school week, with or without the optional Aiguille du Midi outing.
 
+**Student subsidy:** the reduced double-room rates (~€300 / ~€370) are **for students only**. A limited number of subsidised double rooms are available to students who request it in the application form (subject to eligibility and availability). Please indicate your student status when you apply.
+{: .notice--warning}
+
 | Room type | Approximate fee |
 | --------- | --------------: |
 | **Single** (without Aiguille du Midi) | **~€1,160** |
 | **Single** (with Aiguille du Midi) | **~€1,230** |
-| **Double** per person (without Aiguille du Midi) | **~€300** |
-| **Double** per person (with Aiguille du Midi) | **~€370** |
-
-**Student subsidy:** a limited number of **double rooms are subsidised for students** who request it in the application form (subject to eligibility and availability). Please indicate your student status when you apply.
+| **Double** per person, **students only** (without Aiguille du Midi) | **~€300** |
+| **Double** per person, **students only** (with Aiguille du Midi) | **~€370** |
 
 Extra nights (e.g. Sunday before the school) are arranged and paid **directly with the hotel**, outside the school package.
 
@@ -39,7 +40,7 @@ Extra nights (e.g. Sunday before the school) are arranged and paid **directly wi
 The optional Wednesday-morning social is a trip to the **Aiguille du Midi**: a cable-car ascent to **more than 3,800 m** of altitude.
 
 **It is each participant's responsibility** to decide whether they can safely go to this altitude. If you are unsure, **ask your doctor** before selecting this option. The school organisers cannot assess individual medical fitness for high altitude.
+{: .notice--warning}
 
 ---
 
-The application form link will appear here when registration opens.
