@@ -54,9 +54,9 @@ classes: wide teachers-page
     <img src="{{ '/images/bd3.png' | relative_url }}" alt="Benoît Dupont de Dinechin">
   </div>
   <div class="teacher-bio__body">
-    <h2>Benoît Dupont de Dinechin</h2>
+    <h2>Benoît Dupont-de-Dinechin</h2>
     <p class="teacher-bio__affil">Inria · formerly CTO, Kalray · Speaker</p>
-    <p>Benoît Dupont de Dinechin is the former CTO of Kalray, where he was the VLIW core main architect, and the co-architect of the Multi-Purpose Processing Array (MPPA) processors. He had previously been appointed STMicroelectronics Fellow for his contributions to the co-design of compilers and DSP/VLIW cores. He started his industrial career at Cray Research, where he developed the production software pipeliner for the Cray T3E massively parallel computer. His recent work includes an MLIR-to-machine-code generator for a VLIW core (vectorization, instruction selection, register allocation, and software pipelining), and contrasting that experience with a software pipeliner he designed for GCC on the same architecture (post–register-allocation / after if-conversion). A theme of the talk is how engineering software pipelining differs between an SSA-based MLIR machine-code path and a production C/C++ compiler.</p>
+    <p>Benoît Dupont de Dinechin is the former CTO of Kalray, where he was the VLIW core main architect, and the co-architect of the Multi-Purpose Processing Array (MPPA) processors. He had previously been appointed STMicroelectronics Fellow for his contributions to the co-design of compilers and DSP/VLIW cores. He started his industrial career at Cray Research, where he developed the production software pipeliner for the Cray T3E massively parallel computer. His recent work includes an MLIR-to-machine-code generator for a VLIW core (vectorization, instruction selection, register allocation, and software pipelining), and contrasting that experience with a software pipeliner he designed for GCC on the same architecture (post–register-allocation / after if-conversion). </p>
   </div>
 </div>
 
