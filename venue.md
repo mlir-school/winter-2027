@@ -10,11 +10,11 @@ feature_row_venue:
   - image_path: /images/chamonix_bigsky_room.jpg
     alt: "Room at Big Sky"
     title: "Accommodation"
-    excerpt: "Full-board accommodation (study days with breaks and lunch, dinners, and lodging) is included in the registration price. **Single** rooms by default; subsidised **double** rooms for **students only** (limited) — see [Registration](/registration/)."
+    excerpt: "Full-board accommodation (study days with breaks and lunch, dinners, and lodging) is included in the registration price. **Single** rooms by default; subsidised **twin** rooms for **students only** (limited) — see [Registration](/winter-2027/registration/)."
   - image_path: /images/chamonix_aiguille_midi.jpg
     alt: "Aiguille du Midi"
     title: "Optional social"
-    excerpt: "An optional half-day outing to the **Aiguille du Midi** is planned on **Wednesday morning**, depending on weather — **included in the registration fee** (no extra charge). January at ~3,800 m can mean temperatures around **−20 °C** — register only if you can dress for severe cold. See [Registration](/registration/) and the [Program](/program/)."
+    excerpt: "An optional half-day outing to the **Aiguille du Midi** is planned on **Wednesday morning**, depending on weather — **included in the registration fee** (no extra charge). January at ~3,800 m can mean temperatures around **−20 °C** — register only if you can dress for severe cold. See [Registration](/winter-2027/registration/) and the [Program](/winter-2027/program/)."
 ---
 
 The European Winter School on MLIR 2027 will take place at **[Big Sky](https://www.bigsky-hotel.com/en)** in [Chamonix-Mont-Blanc](https://en.wikipedia.org/wiki/Chamonix), France.

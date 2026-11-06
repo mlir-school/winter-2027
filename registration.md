@@ -10,16 +10,16 @@ classes: wide
 
 **[Pre-registration form](https://forms.gle/wXXGVNWt5dMJRn5MA)**
 
-**Pre-registration is open** and **closes on 22 November 2026.** We aim to notify applicants **before the end of November**. Accepted applicants must **confirm and pay by 15 December 2026**. See [Important dates](/#important-dates) on the home page.
+**Pre-registration is open** and **closes on 22 November 2026.** We aim to notify applicants **before the end of November**. Accepted applicants must **confirm and pay by 15 December 2026**. See [Important dates]({{ '/' | relative_url }}#important-dates) on the home page.
 {: .notice--warning}
 
-Places are **limited** (around 50 participants). The school package is **full board** at Big Sky from **Monday 4 January 2027 noon (included)** to **Friday 8 January 2027 noon (excluded)** — lodging, meals, and study days (see the [Program](/program/)).
+Places are **limited** (around 50 participants). The school package is **full board** at Big Sky from **Monday 4 January 2027 noon (included)** to **Friday 8 January 2027 noon (excluded)** — lodging, meals, and study days (see the [Program]({{ '/program/' | relative_url }})).
 
 ## Two-step process
 
 Registration proceeds in two stages:
 
-1. **Pre-registration (application)** — fill in the [online form](https://forms.gle/wXXGVNWt5dMJRn5MA) by **22 November 2026** (background, motivation, room preference, Aiguille du Midi option, and whether you request a subsidised double room as a student).
+1. **Pre-registration (application)** — fill in the [online form](https://forms.gle/wXXGVNWt5dMJRn5MA) by **22 November 2026** (background, motivation, room preference, Aiguille du Midi option, and whether you request a subsidised twin room as a student).
 2. **Decision & payment** — we aim to send an answer **before the end of November**. If accepted, you will then be invited to **confirm your place and pay by 15 December 2026**.
 
 Because capacity is limited, applying early is recommended.
@@ -28,13 +28,13 @@ Because capacity is limited, applying early is recommended.
 
 Fees cover the **full-board** school package for the stay above. The optional **Aiguille du Midi** outing is **included** (no extra charge) if you select it at registration.
 
-**Double-room rate (€300):** available **for students only**. A limited number of subsidised double rooms are available to students who request it in the form (subject to eligibility and availability). Please indicate your student status when you apply.
+**Twin-room rate (€300):** available **for students only**. A limited number of subsidised twin rooms are available to students who request it in the form (subject to eligibility and availability). Please indicate your student status when you apply.
 {: .notice--warning}
 
 | Room type | Fee |
 | --------- | --: |
 | **Single** (full board, Aiguille included if selected) | **€1,220** |
-| **Double** per person, **students only** (full board, Aiguille included if selected) | **€300** |
+| **Twin** per person, **students only** (full board, Aiguille included if selected) | **€300** |
 
 Extra nights (e.g. Sunday before the school) are arranged and paid **directly with the hotel**, outside the school package.
 

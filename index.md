@@ -24,7 +24,7 @@ feature_row_overview:
 <div class="home-with-dates" id="important-dates">
 <div class="home-with-dates__main" markdown="1">
 
-**Pre-registration is open** — see [Registration](/registration/) (application form only; not a confirmed booking). Pre-registration closes **22 November 2026**.
+**Pre-registration is open** — see [Registration]({{ '/registration/' | relative_url }}) (application form only; not a confirmed booking). Pre-registration closes **22 November 2026**.
 {: .notice--info}
 
 MLIR continues to reshape compiler technology across AI, EDA, HPC, quantum computing, and beyond. After beginner-oriented editions (Paris, A Coruña) and an expert-oriented (Un)School in Cambridge, the **European Winter School on MLIR 2027** returns to a small, intensive format in the Alps.
@@ -32,7 +32,7 @@ MLIR continues to reshape compiler technology across AI, EDA, HPC, quantum compu
 From **Monday 4 January (noon)** to **Friday 8 January (before noon)**, participants stay and work together at [Big Sky](https://www.bigsky-hotel.com/en) in Chamonix. The week mixes **topic deep-dives** with **hands-on time alongside experts**. One half-day is reserved for an optional social outing on **Wednesday morning** (Aiguille du Midi, weather permitting).
 
 **Note:**
-This edition is **expert-oriented**. It is a good fit if you already work with MLIR (or a closely related IR stack) and want deep technical exchange rather than an introductory curriculum. Beginners looking for a first course may prefer materials from earlier editions (see [Series](/past_editions/)).
+This edition is **expert-oriented**. It is a good fit if you already work with MLIR (or a closely related IR stack) and want deep technical exchange rather than an introductory curriculum. Beginners looking for a first course may prefer materials from earlier editions (see [Series]({{ '/past_editions/' | relative_url }})).
 {: .notice--info}
 
 </div>

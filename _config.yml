@@ -4,6 +4,8 @@ masthead_title: European Winter School on MLIR 2027
 tagline: 4 – 8 January 2027, Chamonix, France
 description: European Winter School on MLIR 2027 — 4–8 January 2027, Chamonix, France
 
+url: "https://mlir-school.github.io"
+baseurl: "/winter-2027"
 
 # Avoid GitHub Metadata overriding local titles while the remote repo is empty / private
 repository: mlir-school/winter-2027

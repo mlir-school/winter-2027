@@ -35,4 +35,4 @@ The week is organised around a few **hot topics**. Each topic is led by an anima
 
 ---
 
-The detailed timetable is on the [Program](/program/) page.
+The detailed timetable is on the [Program]({{ '/program/' | relative_url }}) page.

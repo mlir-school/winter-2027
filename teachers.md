@@ -60,4 +60,4 @@ classes: wide teachers-page
   </div>
 </div>
 
-See [Topics](/expert-topics/) for topic descriptions and [Organization](/organization/) for the organizing and steering committees.
+See [Topics]({{ '/expert-topics/' | relative_url }}) for topic descriptions and [Organization]({{ '/organization/' | relative_url }}) for the organizing and steering committees.

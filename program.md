@@ -81,4 +81,4 @@ Typical topic block: **~1 h talk** followed by **~1.5 h** informal coding / disc
 | 10:30 – 12:00 | Formal methods & IR — Working group / coding |
 | ~12:00 | Wrap-up / departures (**before noon**) |
 
-See also [Topics](/expert-topics/) for topic descriptions and leads.
+See also [Topics]({{ '/expert-topics/' | relative_url }}) for topic descriptions and leads.
