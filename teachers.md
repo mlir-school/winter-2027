@@ -51,7 +51,7 @@ classes: wide teachers-page
 
 <div class="teacher-bio">
   <div class="teacher-bio__photo">
-    <img src="{{ '/images/bd3.png' | relative_url }}" alt="Benoît Dupont de Dinechin">
+    <img src="{{ '/images/photo_bd3.jpg' | relative_url }}" alt="Benoît Dupont de Dinechin">
   </div>
   <div class="teacher-bio__body">
     <h2>Benoît Dupont-de-Dinechin</h2>

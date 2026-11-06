@@ -5,42 +5,47 @@ permalink: /registration/
 classes: wide
 ---
 
-**Applications will open in early November 2026.** Details and the application form will be published on this page.
+**Pre-registration is open.** Fill in the form below — this is **only a pre-registration / application**, not a confirmed booking or payment.
 {: .notice--info}
 
-Places are **limited** (around 50 participants). The school package covers full-board stay at Big Sky from **Monday 4 January noon** to **Friday 8 January noon** (lodging, meals, and study days).
+**[Pre-registration form](https://forms.gle/wXXGVNWt5dMJRn5MA)**
+
+**Pre-registration opened on 11 November 2026** and **closes on 22 November 2026.** We aim to notify applicants **before the end of November**. The **payment / confirmation deadline** is around **mid-December** (*approximate* — exact date on this site). See [Important dates](/#important-dates) on the home page.
+{: .notice--warning}
+
+Places are **limited** (around 50 participants). The school package is **full board** at Big Sky from **Monday 4 January 2027 noon (included)** to **Friday 8 January 2027 noon (excluded)** — lodging, meals, and study days (see the [Program](/program/)).
 
 ## Two-step process
 
-Registration will proceed in two stages:
+Registration proceeds in two stages:
 
-1. **Application** — fill in a short online form (background, motivation, room preference, Aiguille du Midi option, and whether you request a subsidised double room as a student).
-2. **Decision & payment** — you will receive an answer **within about one week**. If accepted, you will be invited to **confirm your place and pay** shortly afterwards.
+1. **Pre-registration (application)** — fill in the [online form](https://forms.gle/wXXGVNWt5dMJRn5MA) by **22 November 2026** (background, motivation, room preference, Aiguille du Midi option, and whether you request a subsidised double room as a student).
+2. **Decision & payment** — we aim to send an answer **before the end of November**. If accepted, you will then be invited to **confirm your place and pay** by around **mid-December** (*approximate*). Exact dates will be displayed on the website.
 
-Because capacity is limited, applying early is recommended once the form opens.
+Because capacity is limited, applying early is recommended.
 
-## Approximate fees
+## Fees
 
-Fees below are **indicative** and may still change slightly (e.g. service fees). They cover lodging and catering for the school week, with or without the optional Aiguille du Midi outing.
+Fees cover the **full-board** school package for the stay above. The optional Aiguille du Midi outing is billed separately (~€70 / person, approximate) if selected.
 
-**Student subsidy:** the reduced double-room rates (~€300 / ~€370) are **for students only**. A limited number of subsidised double rooms are available to students who request it in the application form (subject to eligibility and availability). Please indicate your student status when you apply.
+**Double-room rate (€300):** available **for students only**. A limited number of subsidised double rooms are available to students who request it in the form (subject to eligibility and availability). Please indicate your student status when you apply.
 {: .notice--warning}
 
-| Room type | Approximate fee |
-| --------- | --------------: |
-| **Single** (without Aiguille du Midi) | **~€1,160** |
-| **Single** (with Aiguille du Midi) | **~€1,230** |
-| **Double** per person, **students only** (without Aiguille du Midi) | **~€300** |
-| **Double** per person, **students only** (with Aiguille du Midi) | **~€370** |
+| Room type | Fee |
+| --------- | --: |
+| **Single** (full board) | **€1,220** |
+| **Double** per person, **students only** (full board) | **€300** |
 
 Extra nights (e.g. Sunday before the school) are arranged and paid **directly with the hotel**, outside the school package.
 
 ## Aiguille du Midi (optional social)
 
-The optional Wednesday-morning social is a trip to the **Aiguille du Midi**: a cable-car ascent to **more than 3,800 m** of altitude.
+The optional Wednesday-morning social is a trip to the **Aiguille du Midi**: a cable-car ascent to **more than 3,800 m** of altitude (January).
 
-**It is each participant's responsibility** to decide whether they can safely go to this altitude. If you are unsure, **ask your doctor** before selecting this option. The school organisers cannot assess individual medical fitness for high altitude.
+**Select this option only if** you are prepared to dress appropriately for **very cold conditions**. Temperatures can drop to around **−20 °C**, and altitude strongly amplifies the sensation of cold.
+{: .notice--warning}
+
+**It is each participant's responsibility** to decide whether they can safely go to this altitude and withstand winter conditions at the summit. If you are unsure, **ask your doctor** before selecting this option. The school organisers cannot assess individual medical fitness for high altitude.
 {: .notice--warning}
 
 ---
-

@@ -18,7 +18,7 @@ feature_row_venue:
   - image_path: /images/chamonix_aiguille_midi.jpg
     alt: "Aiguille du Midi"
     title: "Optional social"
-    excerpt: "An optional half-day outing to the **Aiguille du Midi** is planned on **Wednesday morning**, depending on weather. Cost is separate (~€70 / person, approximate) and collected at registration. See the [Program](/program/) for the draft schedule."
+    excerpt: "An optional half-day outing to the **Aiguille du Midi** is planned on **Wednesday morning**, depending on weather. Cost is separate (~€70 / person, approximate). January at ~3,800 m can mean temperatures around **−20 °C** — register only if you can dress for severe cold. See [Registration](/registration/) and the [Program](/program/)."
 ---
 
 The European Winter School on MLIR 2027 will take place at **[Big Sky](https://www.bigsky-hotel.com/en)** in [Chamonix-Mont-Blanc](https://en.wikipedia.org/wiki/Chamonix), France.

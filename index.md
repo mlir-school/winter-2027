@@ -21,7 +21,10 @@ feature_row_overview:
     excerpt: "Go beyond slides: **work side by side with dialect authors** and practitioners. The focus is to **appropriate existing dialects** through guided coding, clinics, and informal working groups — learn by building with the people who ship the IR."
 ---
 
-**Note:** Draft website — dates and venue are set; programme and registration details are being finalized.
+<div class="home-with-dates" id="important-dates">
+<div class="home-with-dates__main" markdown="1">
+
+**Pre-registration is open** — see [Registration](/registration/) (application form only; not a confirmed booking). Pre-registration closes **22 November 2026**.
 {: .notice--info}
 
 MLIR continues to reshape compiler technology across AI, EDA, HPC, quantum computing, and beyond. After beginner-oriented editions (Paris, A Coruña) and an expert-oriented (Un)School in Cambridge, the **European Winter School on MLIR 2027** returns to a small, intensive format in the Alps.
@@ -31,6 +34,11 @@ From **Monday 4 January (noon)** to **Friday 8 January (before noon)**, particip
 **Note:**
 This edition is **expert-oriented**. It is a good fit if you already work with MLIR (or a closely related IR stack) and want deep technical exchange rather than an introductory curriculum. Beginners looking for a first course may prefer materials from earlier editions (see [Series](/past_editions/)).
 {: .notice--info}
+
+</div>
+{% include important-dates.html %}
+</div>
+
 {% include feature_row id="feature_row_overview" %}
 
 **Partners:**
