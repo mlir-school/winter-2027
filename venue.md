@@ -10,11 +10,7 @@ feature_row_venue:
   - image_path: /images/chamonix_bigsky_room.jpg
     alt: "Room at Big Sky"
     title: "Accommodation"
-    excerpt: "Full-board accommodation (study days with breaks and lunch, dinners, and lodging) is included in the registration price. Attendants can choose between **single** and **double** rooms during registration."
-  - image_path:
-    alt: ""
-    title: ""
-    excerpt: ""
+    excerpt: "Full-board accommodation (study days with breaks and lunch, dinners, and lodging) is included in the registration price. **Single** rooms by default; subsidised **double** rooms for **students only** (limited) — see [Registration](/registration/)."
   - image_path: /images/chamonix_aiguille_midi.jpg
     alt: "Aiguille du Midi"
     title: "Optional social"

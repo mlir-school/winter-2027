@@ -4,21 +4,16 @@ title: "Organization"
 permalink: /organization/
 classes: wide organization-page
 feature_row_organizing:
-  - image_path: /images/photo_kunwar.jpg
-    alt: "Kunwar Grover"
-    title: "Kunwar Grover"
-    excerpt: "*AMD*"
-    label: "Co-Program chair"
-  - image_path: /images/photo_saday.png
-    alt: "Ponnuswamy Sadayappan"
-    title: "Ponnuswamy Sadayappan"
-    excerpt: "*Univ. of Utah*"
-    label: "Co-Program chair"
   - image_path: /images/photo_tobias.png
     alt: "Tobias Grosser"
     title: "Tobias Grosser"
     excerpt: "*U. of Cambridge*"
-    label: "Topic lead"
+    label: "Program chair · Topic lead"
+  - image_path: /images/photo_fabrice.png
+    alt: "Fabrice Rastello"
+    title: "Fabrice Rastello"
+    excerpt: "*Inria*"
+    label: "Local chair · Co-program chair"
   - image_path: /images/photo_william.jpg
     alt: "William S. Moses"
     title: "William S. Moses"
@@ -34,11 +29,6 @@ feature_row_organizing:
     title: "Alex Zinenko"
     excerpt: "*Google*"
     label: "Topic lead"
-  - image_path: /images/photo_fabrice.png
-    alt: "Fabrice Rastello"
-    title: "Fabrice Rastello"
-    excerpt: "*Inria*"
-    label: "Local chair"
 
 feature_row_sc:
   - image_path: /images/photo_albert.png

@@ -11,7 +11,7 @@ classes: wide teachers-page
   </div>
   <div class="teacher-bio__body">
     <h2>Tobias Grosser</h2>
-    <p class="teacher-bio__affil">University of Cambridge · Topic lead — Formal methods &amp; IR</p>
+    <p class="teacher-bio__affil">University of Cambridge · Program chair · Topic lead — Formal methods &amp; IR</p>
     <p>Tobias Grosser is an Associate Professor at the University of Cambridge, where he leads the Cambridge Compiler Lab. His work spans compiler design, programming languages, and high-performance computing, with contributions across the LLVM and MLIR ecosystems — including polyhedral loop optimisation in LLVM/Polly and the co-development of xDSL, a Python-native MLIR-style framework. Before Cambridge, he was a Reader at the University of Edinburgh, an Ambizione Fellow at ETH Zurich, and a Google PhD Fellow at Inria / ENS Paris. His current interests include multi-level compilers for AI and HPC, formal semantics and verification for MLIR dialects, and open-source infrastructure that makes compiler design a practical everyday tool.</p>
   </div>
 </div>
@@ -54,7 +54,7 @@ classes: wide teachers-page
     <img src="{{ '/images/photo_bd3.jpg' | relative_url }}" alt="Benoît Dupont de Dinechin">
   </div>
   <div class="teacher-bio__body">
-    <h2>Benoît Dupont-de-Dinechin</h2>
+    <h2>Benoît Dupont de Dinechin</h2>
     <p class="teacher-bio__affil">Inria · formerly CTO, Kalray · Speaker</p>
     <p>Benoît Dupont de Dinechin is the former CTO of Kalray, where he was the VLIW core main architect, and the co-architect of the Multi-Purpose Processing Array (MPPA) processors. He had previously been appointed STMicroelectronics Fellow for his contributions to the co-design of compilers and DSP/VLIW cores. He started his industrial career at Cray Research, where he developed the production software pipeliner for the Cray T3E massively parallel computer. His recent work includes an MLIR-to-machine-code generator for a VLIW core (vectorization, instruction selection, register allocation, and software pipelining), and contrasting that experience with a software pipeliner he designed for GCC on the same architecture (post–register-allocation / after if-conversion). </p>
   </div>
