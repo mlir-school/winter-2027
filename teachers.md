@@ -60,4 +60,15 @@ classes: wide teachers-page
   </div>
 </div>
 
+<div class="teacher-bio">
+  <div class="teacher-bio__photo">
+    <img src="{{ '/images/photo_nicolas.jpg' | relative_url }}" alt="Nicolas Vasilache">
+  </div>
+  <div class="teacher-bio__body">
+    <h2>Nicolas Vasilache</h2>
+    <p class="teacher-bio__affil">AIRE · Speaker — Backends</p>
+    <p>Nicolas Vasilache is currently based in Switzerland and part of AIRE, a neolab, where he leads various high-performance infrastructure projects. Most recently he worked on ASTER, towards 10-100x better tooling for high-performance assembly generation while employed by AMD. After a Ph. D. at INRIA, France and a period at Reservoir Labs, NYC on polyhedral compilation, he joined the Facebook AI Research Lab, NYC where he worked on fast distributed GPU libraries and led the Tensor Comprehensions DSL and systems research project. He joined Google as an early core member of MLIR in 2018, co-authored MLIR and IREE and led a team of 5 pushing the Structured and Retargetable Codegen efforts in MLIR. In 2024 he founded Brium Inc to work on these technologies, with a team of 15 talented engineers. Brium was acquired by AMD in 2025.</p>
+  </div>
+</div>
+
 See [Topics]({{ '/expert-topics/' | relative_url }}) for topic descriptions and [Organization]({{ '/organization/' | relative_url }}) for the organizing and steering committees.
