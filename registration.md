@@ -26,15 +26,15 @@ Because capacity is limited, applying early is recommended.
 
 ## Fees
 
-Fees cover the **full-board** school package for the stay above. The optional Aiguille du Midi outing is billed separately (~€70 / person, approximate) if selected.
+Fees cover the **full-board** school package for the stay above. The optional **Aiguille du Midi** outing is **included** (no extra charge) if you select it at registration.
 
 **Double-room rate (€300):** available **for students only**. A limited number of subsidised double rooms are available to students who request it in the form (subject to eligibility and availability). Please indicate your student status when you apply.
 {: .notice--warning}
 
 | Room type | Fee |
 | --------- | --: |
-| **Single** (full board) | **€1,220** |
-| **Double** per person, **students only** (full board) | **€300** |
+| **Single** (full board, Aiguille included if selected) | **€1,220** |
+| **Double** per person, **students only** (full board, Aiguille included if selected) | **€300** |
 
 Extra nights (e.g. Sunday before the school) are arranged and paid **directly with the hotel**, outside the school package.
 
